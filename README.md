@@ -70,7 +70,7 @@ Você vai criar uma pequena biblioteca com cartões informativos sobre filmes.
 
 ### Concluído :rocket:
 
-Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_9-3_Edu_Souza/).
+Acesse o deploy do projeto [aqui](https://edusouza-programmer.github.io/Trybe_Projeto_11-3_Edu_Souza/).
 
 #
 ## :unlock: Licença
